@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "image": "https://i.ibb.co.com/kcp11X1/2.webp",
+        "price": 150000,
+        "country": "India",
+        "type": "Batsman",
+        "rating": 92,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "id": 2,
+        "name": "Kane Williamson",
+        "image": "https://i.ibb.co.com/kJKjVDq/a.webp",
+        "price": 120000,
+        "country": "New Zealand",
+        "type": "Batsman",
+        "rating": 90,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "id": 3,
+        "name": "Pat Cummins",
+        "image": "https://i.ibb.co.com/P4Z2CWN/1149-camedia.png",
+        "price": 140000,
+        "country": "Australia",
+        "type": "Bowler",
+        "rating": 88,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "id": 4,
+        "name": "Joe Root",
+        "image": "https://i.ibb.co.com/xDhDB0Z/TR-Joe-Root-new.webp",
+        "price": 130000,
+        "country": "England",
+        "type": "Batsman",
+        "rating": 89,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "id": 5,
+        "name": "Quinton de Kock",
+        "image": "https://i.ibb.co.com/h7CX6sV/170.webp",
+        "price": 110000,
+        "country": "South Africa",
+        "type": "Wicketkeeper Batsman",
+        "rating": 85,
+        "batting_style": "Left-hand bat"
+    },
+    {
+        "id": 6,
+        "name": "Babar Azam",
+        "image": "https://i.ibb.co.com/QbyDnj7/jd-Hr-Dy-A3wt5vt-C58-WKFc-Sr-Np-FU8r80p-Ww-Wq-JKx-DS.png",
+        "price": 140000,
+        "country": "Pakistan",
+        "type": "Batsman",
+        "rating": 91,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "id": 7,
+        "name": "Shakib Al Hasan",
+        "image": "https://i.ibb.co.com/z7c7bKp/3782.webp",
+        "price": 100000,
+        "country": "Bangladesh",
+        "type": "All-rounder",
+        "rating": 87,
+        "batting_style": "Left-hand bat"
+    },
+    {
+        "id": 8,
+        "name": "Chris Gayle",
+        "image": "https://i.ibb.co.com/gry6zcX/Hzd0-Niw2qwl2m2-M0h3-Sq3-Mf4zz-RVs-PTya84a-Xxx-H.png",
+        "price": 125000,
+        "country": "West Indies",
+        "type": "Batsman",
+        "rating": 84,
+        "batting_style": "Left-hand bat"
+    },
+    {
+        "id": 9,
+        "name": "Trent Boult",
+        "image": "https://i.ibb.co.com/ZmyLCc2/211230-trent-boult-28.jpg",
+        "price": 115000,
+        "country": "New Zealand",
+        "type": "Bowler",
+        "rating": 86,
+        "batting_style": "Right-hand bat"
+    }
+]
